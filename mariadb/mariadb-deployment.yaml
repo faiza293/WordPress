@@ -27,4 +27,3 @@ spec:
           value: password
         ports:
         - containerPort: 3306
-
